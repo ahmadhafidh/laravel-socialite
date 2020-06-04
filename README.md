@@ -1,3 +1,7 @@
+![alt text](https://i.ibb.co/sq5ZtfZ/register-socialite.png)
+
+![alt text](https://i.ibb.co/hRvRbD2/login-socialite.png)
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
